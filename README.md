@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyGHua
-- 👀 I’m interested in backend developed especially pn PHP.
-- 🌱 I’m currently learning javascript including node.js next.js etc.
+- 👀 I’m interested in backend developed especially in PHP/Golang.
+- 🌱 I’m currently learning javascript including node.js etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
